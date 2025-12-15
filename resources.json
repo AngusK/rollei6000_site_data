@@ -1,0 +1,65 @@
+[
+  {
+    "id": "battery-solutions",
+    "title": "Battery Solutions",
+    "description": "The original NiCd batteries are the Achilles heel of the system. Modern solutions include NiMh recelling or 3D printed adapters for Li-Ion cells.",
+    "links": [
+      {
+        "label": "Purchase Adapter (Ausgeknipst)",
+        "url": "https://ausgeknipst.de/en/products/batterie-ersatz-fur-rolleiflex-6000-slx-kameras-fur-3x-li-ion-14500-aa",
+        "type": "button",
+        "description": "Purchase a 3D printed Li-Ion battery adapter."
+      },
+      {
+        "label": "Rebuild Service (Rolleiflex USA)",
+        "url": "https://rolleiflex.us/products/rebuild-service-for-rollei-6000-series-battery-pack-with-nimh?variant=1143630809",
+        "type": "button",
+        "description": "Professional NiMh recelling service for original battery packs."
+      },
+      {
+        "label": "Internal Battery Replacement (Battery.com.sg)",
+        "url": "https://www.battery.com.sg/product/battery/digital-camera-battery/replace-the-rollei-6006-internal-battery-pack",
+        "type": "button",
+        "description": "Replacement service for the Rollei 6006 internal battery pack."
+      },
+      {
+        "label": "DIY LiFePO4 Guide (iFixit)",
+        "url": "https://www.ifixit.com/Guide/Rollei+6000-6008+Battery+LiFePO4+Replacement/77648",
+        "type": "button",
+        "description": "Step-by-step guide to updating battery packs to use LiFePO4 cells."
+      },
+      {
+        "label": "AA Adapter (Victory Camera)",
+        "url": "https://www.victorycamera.com/products/rollei-rolleiflex-slx-6006-series-aa-battery-adapter-charger-exc",
+        "type": "button",
+        "description": "3D-printed adapter allowing use of standard AA rechargeable batteries."
+      }
+    ]
+  },
+  {
+    "id": "rolleiflex-usa",
+    "title": "Rolleiflex USA",
+    "description": "The official distributor for Rollei products in the United States, offering sales, service, and parts for legacy and modern systems.",
+    "links": [
+      {
+        "label": "Visit Website",
+        "url": "https://rolleiflex.us/",
+        "type": "button",
+        "description": null
+      }
+    ]
+  },
+  {
+    "id": "rolleigraphy",
+    "title": "Rolleigraphy",
+    "description": "An in-depth technical resource maintained by enthusiasts, covering the complete history and system compatibility of Rollei 6000 cameras.",
+    "links": [
+      {
+        "label": "Visit Website",
+        "url": "https://rolleiflex6000.rolleigraphy.eu/",
+        "type": "button",
+        "description": null
+      }
+    ]
+  }
+]
