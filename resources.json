@@ -61,5 +61,16 @@
         "description": null
       }
     ]
+  },
+  {
+    "id": "reviews",
+    "title": "Reviews",
+    "description": "Reviews for Rollei 6000 system, lenses",
+    "links": [
+      {
+        "label": "50mmc (in Mandarin)",
+        "url": "http://www.50mmc.com/uncategorized/2020-%e7%a6%84%e8%8e%b1hy6%e7%b3%bb%e7%bb%9f-phase-iq3-100mp/",
+        "type": "link",
+    ]
   }
 ]
